@@ -13,6 +13,6 @@ Fecha entrega: 09 de octubre del 2023 <br> <br>
 # Resultado de la Practica 10
 
 <div style="display: flex; justify-content:">
- <img align="left" src="practica8_200668/images/Captura de pantalla 2023-09-27 113032.png?raw=true" alt="Imagen 1" width="200";/>
+ <img align="left" src="practica10_200668/images/imagens.jpg?raw=true" alt="Imagen 1" width="200";/>
 
 </div>
